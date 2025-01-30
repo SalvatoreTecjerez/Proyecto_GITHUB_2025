@@ -29,6 +29,8 @@ public class PruebaVectoresBidimensionales {
 
 		System.out.println("MENU");
 
+		System.out.println("Opcion 1");
+		
 		//declaracion
 		String nombres[][];
 		byte edades[][];
