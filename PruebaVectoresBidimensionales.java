@@ -33,6 +33,8 @@ public class PruebaVectoresBidimensionales {
 		
 		//Creacion de LOGIN para autenticacion
 		
+		//Agregar BOTON de recuperacion de contraseña
+		
 		//declaracion
 		String nombres[][];
 		byte edades[][];
